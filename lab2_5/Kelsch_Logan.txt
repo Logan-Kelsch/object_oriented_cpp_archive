@@ -1,0 +1,10 @@
+
+Item Number         Item Name   Unit    Unit Price   Tax    Subtotal
+-----------         ---------   ----    ----------   ---    --------
+25                Cauliflower    1.5          1.22  0.00        1.83
+37                  Kiwifruit   5.00          0.39  0.00        1.95
+205        Coffee-Maxwell-21oz   1.00          7.98  0.48        8.46
+703  Tomato-Ketchup-Heinz-64oz   1.00          7.76  0.47        8.23
+802           Beef-BottomRound   2.50          4.25  0.64       11.27
+
+		TOTAL: $31.74

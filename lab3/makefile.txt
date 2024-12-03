@@ -1,0 +1,10 @@
+all: Myprog
+
+Myprog: link.o
+  g++ link.o -o Myprog
+
+link.o: linkFun.cpp
+  g++ -c linkFun.cpp
+
+clean:
+  rm -rf *o Myprog
